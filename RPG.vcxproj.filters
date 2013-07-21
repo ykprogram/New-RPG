@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Battle Phase">
+      <UniqueIdentifier>{3ebab504-0393-4090-9877-fa17090c140b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Before Battle">
+      <UniqueIdentifier>{b6623fa0-27fe-4773-bcb6-80a4f6d06877}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Event">
+      <UniqueIdentifier>{fcfc2b99-efdb-49b5-b850-6c4f863e87e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Map">
+      <UniqueIdentifier>{e0d182eb-58ff-44ae-be1b-ab00265a3854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Music">
+      <UniqueIdentifier>{185941e0-1770-4459-81b8-8a1e67484257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Start Menu">
+      <UniqueIdentifier>{4d80ac81-ba49-429f-9e41-08f7fdc55e15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Story">
+      <UniqueIdentifier>{bb21fd18-cca1-409f-840d-b66daab67c64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Battle Phase">
+      <UniqueIdentifier>{8c07faa6-3a0e-4e11-b284-3ec1d5e23551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Before Battle">
+      <UniqueIdentifier>{9c40a1a6-8e93-4dc5-806d-8e87eec0ba7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Event">
+      <UniqueIdentifier>{cf04d799-3507-42cc-b7d3-0f4ba2592841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Map">
+      <UniqueIdentifier>{d55e2dd2-58ba-491a-9df1-d0c4a992b51f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Music">
+      <UniqueIdentifier>{86c9fe6e-d99c-4a70-a7e8-034cb08f606b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Story">
+      <UniqueIdentifier>{41c20812-51ab-450b-af2c-b9b52e3691e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Start Menu">
+      <UniqueIdentifier>{a005fed3-c4d3-4f93-ba97-1e7a5a7f078d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Program Files\Battle Phase\Battle.cpp">
+      <Filter>ソース ファイル\Battle Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Battle Phase\Battle_Player.cpp">
+      <Filter>ソース ファイル\Battle Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Battle Phase\BattleMgr.cpp">
+      <Filter>ソース ファイル\Battle Phase</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\BeforeBattle\Before_Battle.cpp">
+      <Filter>ソース ファイル\Before Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\BeforeBattle\BeforeBattleMgr.cpp">
+      <Filter>ソース ファイル\Before Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Event\EventMgr.cpp">
+      <Filter>ソース ファイル\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Map\Map.cpp">
+      <Filter>ソース ファイル\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Map\Map_Player.cpp">
+      <Filter>ソース ファイル\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Map\MapMenu.cpp">
+      <Filter>ソース ファイル\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Map\MapMgr.cpp">
+      <Filter>ソース ファイル\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Music\Music.cpp">
+      <Filter>ソース ファイル\Music</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Story\StoryMgr.cpp">
+      <Filter>ソース ファイル\Story</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Start Menu\Start Menu.cpp">
+      <Filter>ソース ファイル\Start Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Function.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\KeyBoard.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\wiicontroller.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Mouse.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Event\Map_Event.cpp">
+      <Filter>ソース ファイル\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Event\Battle_Event.cpp">
+      <Filter>ソース ファイル\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Program Files\Item.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Program Files\Battle Phase\Battle.h">
+      <Filter>ヘッダー ファイル\Battle Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Battle Phase\Battle_Player.h">
+      <Filter>ヘッダー ファイル\Battle Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Battle Phase\BattleMgr.h">
+      <Filter>ヘッダー ファイル\Battle Phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\BeforeBattle\Before_Battle.h">
+      <Filter>ヘッダー ファイル\Before Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\BeforeBattle\BeforeBattleMgr.h">
+      <Filter>ヘッダー ファイル\Before Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Event\EventMgr.h">
+      <Filter>ヘッダー ファイル\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Map\Map.h">
+      <Filter>ヘッダー ファイル\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Map\Map_Player.h">
+      <Filter>ヘッダー ファイル\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Map\MapMenu.h">
+      <Filter>ヘッダー ファイル\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Map\MapMgr.h">
+      <Filter>ヘッダー ファイル\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Music\Music.h">
+      <Filter>ヘッダー ファイル\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Story\StoryMgr.h">
+      <Filter>ヘッダー ファイル\Story</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Start Menu\Start Menu.h">
+      <Filter>ヘッダー ファイル\Start Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Define.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\KeyBoard.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Function.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Mouse.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\UsePrototype.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\wiicontroller.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Event\Battle_Event.h">
+      <Filter>ヘッダー ファイル\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Event\Map_Event.h">
+      <Filter>ヘッダー ファイル\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Program Files\Item.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Program Files\readme.txt">
+      <Filter>ソース ファイル</Filter>
+    </None>
+    <None Include="Program Files\RPGバージョンのログ.txt">
+      <Filter>ソース ファイル</Filter>
+    </None>
+  </ItemGroup>
+</Project>
